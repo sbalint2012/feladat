@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "githubfeladat", "githubfeladat\githubfeladat.csproj", "{B587944D-A5F3-4C51-83D3-9B5EEB256DBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B587944D-A5F3-4C51-83D3-9B5EEB256DBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B587944D-A5F3-4C51-83D3-9B5EEB256DBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B587944D-A5F3-4C51-83D3-9B5EEB256DBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B587944D-A5F3-4C51-83D3-9B5EEB256DBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC98558B-FE1B-45C9-A23B-12A54FBB6CF1}
+	EndGlobalSection
+EndGlobal
